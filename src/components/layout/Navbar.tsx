@@ -44,10 +44,6 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="hidden md:block bg-[#0A0B0D] text-xs text-stone-400 py-1.5 px-4 border-b border-stone-800/60">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-6">
-            <span className="flex items-center text-stone-300">
-              <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 mr-2 animate-pulse" />
-              Verified Abuja Properties (C of O & R of O Titles)
-            </span>
             <span className="text-stone-400">
               Maitama • Asokoro • Guzape • Jabi • Katampe
             </span>
